@@ -1,0 +1,14 @@
+# Stata dataset and output files
+*.dta
+*.log
+*.csv
+*.txt
+*.pdf
+*.sas7bdat
+*.zip
+.DS_Store
+
+# hard-commit files
+!election/input/1978-2018-house3.csv
+!retaliatory/input/
+
