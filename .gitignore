@@ -9,6 +9,6 @@
 .DS_Store
 
 # hard-commit files
-!election/input/1978-2018-house3.csv
-!retaliatory/input/
+!/election/input/1978-2018-house3.csv
+!/retaliatory/input/
 
