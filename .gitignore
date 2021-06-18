@@ -11,6 +11,6 @@
 
 # hard-commit files
 !election/input/1976-2018-house3.csv
-!retaliatory/input/imp2017.sas7bdat
-# !zbp/input/ZIP_CD_032016.xlsx
+# retaliatory/input/imp2017.sas7bdat
+!zbp/input/ZIP_CD_032016.xlsx
 
